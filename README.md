@@ -10,9 +10,9 @@ The model I used is ResNet. Residual Networks learn residual functions with refe
 ## Problem Statement
 Deep Learning is awesome, it has given wings to computer vision and object detection/classification. However you need a lot of data to train a good detection model which may not be readily available. Show use the use of transfer learning to train a model on less data (<1000 images) and still getting good results (>80% accuracy) to demonstrate use of transfer learning. You are free to pick a model of your choice and dataset of your choice.
 ## Deliverables
-a. Source code of your python script (either in email or link to your github repo)
-b. List of websites/articles which you found helpful while doing your search
-c. A small writeup
+a. Source code of your python script (either in email or link to your github repo) <br />
+b. List of websites/articles which you found helpful while doing your search <br />
+c. A small writeup <br />
 ## Result
 dataset size = 1000 per label<br />
 Validation Accuracy = 89.5
